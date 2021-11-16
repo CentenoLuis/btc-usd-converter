@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/btc-usd-converter/static/css/main.1648f73c.chunk.css",
+    "main.js": "/btc-usd-converter/static/js/main.e1b01dfa.chunk.js",
+    "main.js.map": "/btc-usd-converter/static/js/main.e1b01dfa.chunk.js.map",
+    "runtime-main.js": "/btc-usd-converter/static/js/runtime-main.c76cf6b7.js",
+    "runtime-main.js.map": "/btc-usd-converter/static/js/runtime-main.c76cf6b7.js.map",
+    "static/js/2.033596ea.chunk.js": "/btc-usd-converter/static/js/2.033596ea.chunk.js",
+    "static/js/2.033596ea.chunk.js.map": "/btc-usd-converter/static/js/2.033596ea.chunk.js.map",
+    "index.html": "/btc-usd-converter/index.html",
+    "static/css/main.1648f73c.chunk.css.map": "/btc-usd-converter/static/css/main.1648f73c.chunk.css.map",
+    "static/js/2.033596ea.chunk.js.LICENSE.txt": "/btc-usd-converter/static/js/2.033596ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c76cf6b7.js",
+    "static/js/2.033596ea.chunk.js",
+    "static/css/main.1648f73c.chunk.css",
+    "static/js/main.e1b01dfa.chunk.js"
+  ]
+}
